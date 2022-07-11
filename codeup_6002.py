@@ -1,0 +1,4 @@
+#공백( )을 포함한 문장을 출력한다.
+#다음 문장을 출력해보자.
+#Hello World
+print('Hello World')
