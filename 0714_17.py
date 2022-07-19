@@ -8,3 +8,8 @@
 
 
 word='banana'
+upword=''
+for i in word:
+    
+    upword+=i
+
