@@ -25,7 +25,6 @@
 
 T=int(input())
 
-
 for t in range(1,T+1):
     a,b,c,d,e,f,g,h,i,j=input().split()
     a=int(a)
