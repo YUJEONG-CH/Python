@@ -8,8 +8,8 @@
 # 출력
 # 첫째 줄부터 N번째 줄까지 차례대로 별을 출력한다.
 
-# N = int(input())
-# star='*'
+N = int(input())
+star='*'
 # for i in range(N):
 #     print((star*(i+1)).rjust(N))
 
